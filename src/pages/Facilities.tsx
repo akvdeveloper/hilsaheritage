@@ -6,7 +6,7 @@ import {
   Sparkles, Heart, Cake, Building2, Handshake, GraduationCap,
   Music, PartyPopper, Bed
 } from 'lucide-react';
-import banquetHall from '@/assets/banquet-hall.jpg';
+import banquetHall from '@/assets/hero-banquet.jpg';
 import lawnArea from '@/assets/lawn-area.jpg';
 import acRoom from '@/assets/ac-room.jpg';
 import weddingCeremony from '@/assets/wedding-ceremony.jpg';
